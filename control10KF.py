@@ -1,0 +1,3 @@
+import CNN_CIFAR10
+
+CNN_CIFAR10.WRN_KF(KFF=3.0, g_fac=1.5)
